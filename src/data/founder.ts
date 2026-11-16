@@ -24,7 +24,7 @@ export const founders: Leader[] = [
   },
   {
     name: "Ripinjal Rahi",
-    role: "Co-Founder, Synvora AI",
+    role: "Co-Founder & AIML Engineer, Synvora AI",
     photo: null,
     bio: [
       "Technology and operations leader focused on driving strategic growth, product implementation, and scalable business workflows.",
