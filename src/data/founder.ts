@@ -23,7 +23,7 @@ export const founders: Leader[] = [
     linkedin: "https://www.linkedin.com/",
   },
   {
-    name: "Co-Founder Name",
+    name: "Ripinjal Rahi",
     role: "Co-Founder, Synvora AI",
     photo: null,
     bio: [
